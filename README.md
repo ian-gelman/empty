@@ -6,7 +6,7 @@ tested on:
 * debian sarah
 
 known issues:
-* clang knows that this is stupid, so if you want it to work, use gcc
+* clang knows that this is stupid. use gcc.
 
 instructions:
 
