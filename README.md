@@ -5,7 +5,7 @@ tested on:
 * centos 7
 * debian sarah
 
-known issues:
+known "issues":
 * clang knows that this is stupid. use gcc.
 
 instructions:
